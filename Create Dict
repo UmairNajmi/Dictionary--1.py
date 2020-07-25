@@ -1,0 +1,9 @@
+# Create a dictionary and take input from the user.
+
+dictionary = {'Umair Najmi' : '01234566784',
+         'UN' : '019765432',
+         'NU' : '076543234',
+}
+name = input("Enter your name :") # this will input deatil
+print(dictionary[name]) 
+
